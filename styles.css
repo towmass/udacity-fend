@@ -1,0 +1,60 @@
+body {
+  font-family: 'Quicksand', sans-serif;
+  background: url("https://images.pexels.com/photos/248812/pexels-photo-248812.jpeg");
+  /* credits go to https://www.pexels.com/photo/scenic-view-of-bamboo-trees-248812/ */ 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed; 
+  color:white;
+  }
+.heading {color: rgb(255, 255, 255);
+  text-shadow: 3px 3px 12px rgba(0,0,0,0.6);
+  font-size: 35px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  text-align: center;
+  }
+#card {
+  margin: 0px auto;
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgba(25, 100, 2, 0.623);
+  border-radius: 10px;
+  width: 300px;
+  text-align: left;
+  padding: 10px;
+  box-shadow: 5px 5px 12px rgba(0,0,0,0.6);
+  background-color: rgba(0, 53, 0, 0.9);
+  height: 700px;
+  margin-top: 10px;
+  }
+.content {
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgba(0, 0, 0, 0.4);
+  border-radius: 10px;
+  padding: 10px;
+  margin-top: 10px;
+  background-color: rgba(0, 0, 0, 0.3);
+  font-size: 14px;
+}
+.list {
+  border-width: 1px;
+  border-color: rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+  list-style: none;
+  text-align: left;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left:10px;
+
+}
+
+.panda {width:300px;
+  margin: auto;
+  display:block;
+  border-radius: 10px;
+  border-color: #7F4921;
+}
